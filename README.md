@@ -1,4 +1,4 @@
-# RagSample
+# RAG Sample
 A CLI chatbot using ollama (llama3) to answer queries based on text content. 
 
 This example is based on code from
