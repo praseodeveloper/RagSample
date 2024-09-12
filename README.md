@@ -6,9 +6,10 @@ https://github.com/vteam27/RagXOllama
 
 Steps to get started
 1. `git clone https://github.com/praseodeveloper/RagSample.git`
-2.  i.   Install ollama from https://ollama.com/ <br>
+2. Install chromadb from https://www.trychroma.com/ or get a docker image.
+3.  i.   Install ollama from https://ollama.com/ <br>
     ii.  Download llama3 model using `ollama pull llama3` <br>
     iii. Run `ollama serve` <br>
-3.  Place text content (.txt, .docx and .pdf) in 'Docs' folder
-4.  In index.js, modify <sUserQuery> variable to change the user query
-5.  Run `npm install && npm start`  
+4.  Place text content (.txt, .docx and .pdf) in 'Docs' folder
+5.  In index.js, modify <sUserQuery> variable to change the user query
+6.  Run `npm install && npm start`  
